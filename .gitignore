@@ -1,0 +1,8 @@
+
+*.jpg
+flowers/dandelion/run_me.py
+flowers/dandelion/flickr.pyc
+flowers/dandelion/flickr.py
+dataset/train/dandelion/run_me.py
+dataset/train/dandelion/flickr.pyc
+dataset/train/dandelion/flickr.py
