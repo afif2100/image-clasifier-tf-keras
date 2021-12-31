@@ -6,3 +6,5 @@ flowers/dandelion/flickr.py
 dataset/train/dandelion/run_me.py
 dataset/train/dandelion/flickr.pyc
 dataset/train/dandelion/flickr.py
+*.h5
+flowers/*
